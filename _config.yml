@@ -20,8 +20,8 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", sidebaricon: home}
   - {file: "publications.md", title: "Publication", sidebaricon: book}
+    - {file: "teaching.md", title: "Teaching", sidebaricon: chalkboard-teacher}
   - {file: "cv.md", title: "CV", sidebaricon: file}
-  - {file: "teaching.md", title: "Teaching", sidebaricon: chalkboard-teacher}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
