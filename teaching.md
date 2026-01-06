@@ -1,3 +1,10 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+hide_title: true
+---
+
 ## Teaching Talk
 
 - **Undergraduate Teaching Workshop** (invited speaker), Sep 2025, UMass Amherst
