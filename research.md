@@ -1,3 +1,10 @@
+---
+layout: page
+title: Research
+permalink: /research/
+hide_title: true
+---
+
 ## Research Areas
 
 **Epistemology**  
