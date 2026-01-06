@@ -6,7 +6,7 @@
   <div style="flex:1; min-width:250px; margin-right:30px;">
     <h1>He Yuan</h1>
     <p style="font-size:1.2em; line-height:1.5;">
-      He Yuan is a philosophy PhD student at UMass Amherst, working on epistemology, epistemology of metaphysics, and metaphysics.<br>
+      I am a philosophy PhD student at UMass Amherst, working on epistemology, epistemology of metaphysics, and metaphysics.<br>
       Welcome to my academic homepage.
     </p>
   </div>
