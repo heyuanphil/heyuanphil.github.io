@@ -6,7 +6,7 @@ permalink: /talking/
 
 ## Research Talks
 
-Here is a selection of my recent talks, with the most recent listed first.
+Here is a selection of my recent talks.
 
 ### 2025
 
@@ -14,7 +14,7 @@ Here is a selection of my recent talks, with the most recent listed first.
 
 ### 2024
 
-- **Are Humean laws of Nature in a better epistemic status?**, Nov 2024, Slice Talk, UMass Amherst  
+- **Is Humean laws of Nature in a better epistemic status?**, Nov 2024, Slice Talk, UMass Amherst  
 - **Epistemic permissivism and risk evaluation in irrationality**, April 2024, Gruelight Talk, UMass Amherst
 
 ### 2023
