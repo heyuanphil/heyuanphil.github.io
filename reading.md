@@ -10,10 +10,6 @@ If you are interested in participating or learning more, feel free to email me a
 
 ---
 
-### Co-organizer
-
-- **Bayesian Epistemology**: Co-organizer, Fall 2024; Spring 2025; Fall 2025; Spring 2026 (UMass Amherst)
-
 ### Organizer
 
 - **Inquiry**, Winter 2025 (Online)  
@@ -21,6 +17,12 @@ If you are interested in participating or learning more, feel free to email me a
 - **Epistemology of Metaphysics**, Winter 2024 (Online)  
 - **Grounding and Naturalness**, Summer 2024 (Online)  
 - **Naturalized Metaphysics***, Winter 2023 (Online)
+
+### Co-organizer
+
+- **Bayesian Epistemology**: Fall 2024; Spring 2025; Fall 2025; Spring 2026 (UMass Amherst)
+
+
 
 ### Participator
 
