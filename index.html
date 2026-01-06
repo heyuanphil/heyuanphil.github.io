@@ -1,17 +1,24 @@
 ---
-layout: default
-title: "Home"
+layout: page
+title: Home
+permalink: /
+show_header: false
 ---
 
-{% if site.show_excerpts %}
-  {% for post in site.posts %}
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
-    </article>
-  {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; margin-top:50px;">
+  
+  <!-- 左边文字 -->
+  <div style="flex:1; min-width:250px; margin-right:30px;">
+    <h1>He Yuan</h1>
+    <p style="font-size:1.2em; line-height:1.5;">
+      He Yuan is a philosophy PhD at UMass Amherst, working on epistemology, metaphysics, and the formal analysis of rational belief.  
+      Welcome to my academic homepage.
+    </p>
+  </div>
+
+  <!-- 右边图片 -->
+  <div style="flex:0 0 200px; text-align:center;">
+    <img src="/assets/images/profile.jpg" alt="He Yuan" style="width:180px; border-radius:50%; border:2px solid #ccc;">
+  </div>
+
+</div>
