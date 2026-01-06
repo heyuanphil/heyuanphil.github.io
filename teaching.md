@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+show_header: false
 ---
 
 ## Teaching Talk
