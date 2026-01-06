@@ -33,13 +33,10 @@ comments:
 #  disqus_shortname: ""         # see https://disqus.com
 #  isso_domain: ""              # see https://isso-comments.de
 
-plugins:
- - jekyll-feed
-
- # 添加这个部分 - 全局默认设置
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
+      layout: page
       show_title: false
+      show_header: false
