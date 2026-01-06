@@ -1,10 +1,3 @@
----
-layout: page
-title: Reading Group
-permalink: /reading/
----
-
-
 
 If you are interested in participating or learning more, feel free to email me at **heyuan@umass.edu**.
 
