@@ -18,14 +18,15 @@ show_minimal: true             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "index.html", title: "Home", sidebaricon: home}
+  - {file: "publications.md", title: "Publication", sidebaricon: book}
+  - {file: "cv.md", title: "CV", sidebaricon: file}
+  - {file: "teaching.md", title: "Teaching", sidebaricon: chalkboard-teacher}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:heyuan@umass.edu"}
-  - {title: Github, icon: github, url: "https://github.com/heyuan"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: PhilPapers, icon: book, url: "https://philpeople.org/profiles/he-yuan"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
