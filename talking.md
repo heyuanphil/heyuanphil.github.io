@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Talk
+permalink: /talking/
+hide_title: true
+---
 Here is a selection of my recent talks.
 
 ### 2025
