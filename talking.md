@@ -1,6 +1,4 @@
 
-## Research Talks
-
 Here is a selection of my recent talks.
 
 ### 2025
