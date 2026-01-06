@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", sidebaricon: home}
   - {file: "research.md", title: "Research", sidebaricon: flask}
   - {file: "teaching.md", title: "Teaching", sidebaricon: chalkboard-teacher}
-  - {file: "talking.md", title: "Talking", sidebaricon: comments} 
+  - {file: "talking.md", title: "Talk", sidebaricon: comments} 
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
