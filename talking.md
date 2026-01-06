@@ -1,8 +1,3 @@
----
-layout: page
-title: Talking
-permalink: /talking/
----
 
 ## Research Talks
 
