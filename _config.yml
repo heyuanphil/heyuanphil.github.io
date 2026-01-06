@@ -35,3 +35,11 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ # 添加这个部分 - 全局默认设置
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      show_title: false
