@@ -1,24 +1,13 @@
----
-layout: page
-title: Research
-permalink: /research/
-show_header: false   # 隐藏顶部重复标题
----
-
 ## Research Areas
 
 **Epistemology**  
-- Epistemic permissivism and its applications  
-- Credence-frequency link
+- Epistemic permissivism and its applications；Credence-frequency link
 
 **Epistemology of Metaphysics**  
-- Theoretical virtues in metaphysics  
-- Formal epistemology of metaphysics  
-- Metaphysical disagreement
+- Theoretical virtues in metaphysics；Formal epistemology of metaphysics；Metaphysical disagreement
 
 **Metaphysics**  
-- Laws of nature  
-- Chance-frequency link
+- Laws of nature；Chance-frequency link
 
 ---
 
