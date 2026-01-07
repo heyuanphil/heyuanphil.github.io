@@ -25,5 +25,5 @@ If you are interested in participating or learning more, feel free to email me a
 
 ### Participator
 
-- **Readings in Formal Epistemology**, Fall 2021 (Xiamen University)  
-- **Unsettled Thoughts: A Theory of Degrees of Rationality**, Fall 2020 (Wuhan University)
+- ***Readings in Formal Epistemology***, Fall 2021 (Xiamen University)  
+- ***Unsettled Thoughts: A Theory of Degrees of Rationality***, Fall 2020 (Wuhan University)
