@@ -3,13 +3,14 @@
     display: none;
 }
 
-/* 全局 Markdown 链接显示为正文颜色，不显示下划线 */
+
+/* 默认 Markdown 链接显示为正文颜色，不显示下划线 */
 a {
-    color: inherit;
-    text-decoration: none;
+    color: inherit !important;           /* 链接颜色继承正文颜色 */
+    text-decoration: none !important;    /* 去掉下划线 */
 }
 
+/* 鼠标悬停时显示下划线提示可点击，可选 */
 a:hover {
-    color: inherit;
-    text-decoration: underline; /* 鼠标悬停显示下划线 */
+    text-decoration: underline !important;
 }
