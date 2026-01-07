@@ -50,3 +50,16 @@ hide_title: true
 - A paper arguing that an agent’s rational credence can sometimes morally wrong others in cases of epistemic permissivism  
 - A paper arguing that theoretical virtues can be truth-conducive in science but may fail to do so in metaphysics  
 - A paper defending that we should not be highly confident that our world is a simulation
+
+<script>
+  // 中文注释的 toggleAbstract 函数
+  function toggleAbstract(id) {
+    const elem = document.getElementById(id);
+    if (elem.style.display === "none" || elem.style.display === "") {
+      elem.style.display = "block";
+    } else {
+      elem.style.display = "none";
+    }
+  }
+</script>
+
