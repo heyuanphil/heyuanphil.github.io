@@ -13,16 +13,19 @@ table {
 }
 </style>
 
-## Teaching Talk
-
-- *Undergraduate Teaching Workshop* (invited speaker), Sep 2025, UMass Amherst
-
 ## Teaching Awards
 
 - [*John Robison Prize for Excellence in Undergraduate Teaching*, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
 
-## Teaching Experience: Discussion Sections
-- Responsibilities included leading discussion sections, grading and holding office hours。
+## Teaching Talk
+
+- *Undergraduate Teaching Workshop* (invited speaker), Sep 2025, UMass Amherst
+
+## Teaching Experience
+
+### Discussion Sections
+
+*Responsibilities included leading discussion sections, holding office hours, and grading.*
 
 | Course | Semester | Institution |
 |--------|---------|------------|
@@ -30,12 +33,11 @@ table {
 | [Death and the Meaning of Life](assets/teaching/S25-PHIL180.pdf) | Spring 2025 | UMass Amherst |
 | Medical Ethics | Fall 2024 | UMass Amherst |
 
-## Teaching Experience: Grading
+### Grading Experience
 
 | Course | Semester | Institution |
 |--------|---------|------------|
 | Existentialism | Spring 2024 | UMass Amherst |
 | An Introduction to Logic | Fall 2023 | UMass Amherst |
-
 
 
