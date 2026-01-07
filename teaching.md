@@ -15,11 +15,11 @@ table {
 
 ## Teaching Talk
 
-- **Undergraduate Teaching Workshop** (invited speaker), Sep 2025, UMass Amherst
+- *Undergraduate Teaching Workshop* (invited speaker), Sep 2025, UMass Amherst
 
 ## Teaching Awards
 
-- [**John Robison Prize for Excellence in Undergraduate Teaching**, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
+- [*John Robison Prize for Excellence in Undergraduate Teaching*, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
 
 ## Teaching Assistantship
 
