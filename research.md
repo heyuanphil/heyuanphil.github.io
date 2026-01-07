@@ -5,7 +5,6 @@ permalink: /research/
 hide_title: true
 ---
 
-
 <style>
 /* 只影响 Publications 标题，不影响 Markdown 列表 */
 .publication .pub-title {
@@ -26,14 +25,11 @@ hide_title: true
 }
 </style>
 
-
 ## Research Areas
 
-*Epistemology*: Epistemic permissivism and its applications；Credence-frequency link
-
-*Epistemology of Metaphysics*: Theoretical virtues in metaphysics；Formal epistemology of metaphysics；Metaphysical disagreement
-
-*Metaphysics*: Laws of nature；Chance-frequency link
+*Epistemology*: Epistemic permissivism and its applications；Credence-frequency link  
+*Epistemology of Metaphysics*: Theoretical virtues in metaphysics；Formal epistemology of metaphysics；Metaphysical disagreement  
+*Metaphysics*: Laws of nature；Chance-frequency link  
 
 ---
 
@@ -42,7 +38,7 @@ hide_title: true
 <div class="publication">
   <p class="pub-title" onclick="toggleAbstract('paper1')">
     Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (forthcoming)
-  <p>
+  </p>
   <div id="paper1" class="pub-abstract" style="display:none; margin-left: 1em;">
     <p>
       A popular version of epistemic Permissivism says that, given the total evidence, sometimes there is a
@@ -57,15 +53,10 @@ hide_title: true
       do not render it irrational when one risks being less truth-conducive in exchange for informativeness.
     </p>
     <p>
-      <a href="/assets/papers/epistemic-permissivism.pdf">
-        Download PDF
-      </a>
+      <a href="/assets/papers/epistemic-permissivism.pdf">Download PDF</a>
     </p>
   </div>
 </div>
-
-
-
 
 ---
 
@@ -73,7 +64,7 @@ hide_title: true
 
 - A paper arguing that an agent’s rational credence can sometimes morally wrong others in cases of epistemic permissivism  
 - A paper arguing that theoretical virtues can be truth-conducive in science but may fail to do so in metaphysics  
-- A paper defending that we should not be highly confident that our world is a simulation
+- A paper defending that we should not be highly confident that our world is a simulation  
 
 <script>
   // 中文注释的 toggleAbstract 函数
@@ -86,4 +77,3 @@ hide_title: true
     }
   }
 </script>
-
