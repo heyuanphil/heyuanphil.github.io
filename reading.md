@@ -11,11 +11,11 @@ If you are interested in participating or learning more, feel free to email me a
 
 ### Organizer
 
-- **Inquiry**, Winter 2025 (Ongoing)  
-- **Laws of Nature**, Summer 2025 (Online)  
-- **Epistemology of Metaphysics**, Winter 2024 (Online)  
-- **Grounding and Naturalness**, Summer 2024 (Online)  
-- **Naturalized Metaphysics**, Winter 2023 (Online)
+- **Inquiry**, Winter Break 2025 (Ongoing)  
+- **Laws of Nature**, Summer Break 2025 (Online)  
+- **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
+- **Grounding and Naturalness**, Summer Break 2024 (Online)  
+- **Naturalized Metaphysics**, Winter Break 2023 (Online)
 
 ### Co-organizer
 
