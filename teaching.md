@@ -15,15 +15,24 @@ hide_title: true
 
 ## Teaching Assistantship
 
+<div class="table-container">
+
 | Course | Semester | Institution |
 |--------|---------|------------|
 | An Introduction to Philosophy | Fall 2025; Spring 2026 | UMass Amherst |
 | Death and the Meaning of Life | Spring 2025 | UMass Amherst |
 | Medical Ethics | Fall 2024 | UMass Amherst |
 
+</div>
+
 ## Grading Assistantship
+
+<div class="table-container">
 
 | Course | Semester | Institution |
 |--------|---------|------------|
 | Existentialism | Spring 2024 | UMass Amherst |
 | An Introduction to Logic | Fall 2023 | UMass Amherst |
+
+</div>
+
