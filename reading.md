@@ -5,7 +5,7 @@ permalink: /reading/
 hide_title: true
 
 ---
-If you are interested in participating or learning more, feel free to email me at **heyuan@umass.edu**.
+I organize and co-organize reading groups on new questions and recent work in philosophy, both in-person and online, primarily during academic breaks. If you are interested in participating or learning more, feel free to email me at **heyuan@umass.edu**.
 
 ---
 
