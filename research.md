@@ -17,7 +17,31 @@ hide_title: true
 
 ## Publications
 
-- [Epistemic Permissivism and Risk Assessment in Irrationality, *Mind* (forthcoming)](/assets/papers/epistemic-permissivism.pdf)
+<div class="publication">
+  <h3 class="pub-title" onclick="toggleAbstract('paper1')" style="cursor:pointer;">
+    Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (forthcoming)
+  </h3>
+  <div id="paper1" class="pub-abstract" style="display:none; margin-left: 1em;">
+    <p>
+      A popular version of epistemic Permissivism says that, given the total evidence, sometimes there is a
+      permissible credence range towards a proposition. Ginger Schultheis (2018) offers a Dominance Argument
+      against it. Schultheis argues that it is irrational to hold a credence at the edge of any permissible range
+      because the edge credence takes higher risks of being irrational than the credence in the middle. In this
+      paper, I propose two new responses. Firstly, I argue that after the risk assessment in irrationality, a new
+      stable range may emerge such that each credence from it does not take more risks than others. Schultheis’s
+      Dominance Argument can only shrink the original credence range to this new stable range. Second, I argue
+      that sometimes it is rational for us to hold a more risky credence when a safer alternative is available. If
+      rationality aims at truth-conduciveness and informativeness, a credence’s higher risks of being irrational
+      do not render it irrational when one risks being less truth-conducive in exchange for informativeness.
+    </p>
+    <p>
+      <a href="/assets/papers/epistemic-permissivism.pdf" style="color: #007bff; text-decoration: underline;">
+        Download PDF
+      </a>
+    </p>
+  </div>
+</div>
+
 
 ---
 
