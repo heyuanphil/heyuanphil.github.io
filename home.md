@@ -1,3 +1,8 @@
+---
+layout: home
+title: ""
+---
+
 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; margin-top:50px;">
 
   <!-- 左边文字 -->
