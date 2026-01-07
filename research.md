@@ -5,38 +5,7 @@ permalink: /research/
 hide_title: true
 ---
 
-<style>
-/* 只影响 Publications 标题，不影响 Markdown 列表 */
-.publication .pub-title {
-  font-size: 1em;      /* 与列表字体一致 */
-  font-weight: normal;  /* 不加粗 */
-  cursor: pointer;
-  position: relative;    /* 为伪元素定位 */
-  padding-left: 1.2em;   /* 给圆点留空间 */
-}
-
-/* 添加标题前的小圆点 */
-.publication .pub-title::before {
-  content: "•";          /* Unicode 小圆点 */
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: inherit;        /* 继承字体颜色 */
-  font-size: 1em;        /* 圆点大小和文字一致 */
-  line-height: 1em;
-}
-
-/* PDF 链接蓝色 */
-.publication .pub-abstract a {
-  color: #007bff;
-  text-decoration: underline;
-}
-
-/* 鼠标悬停标题变蓝 */
-.publication .pub-title:hover {
-  color: #007bff;
-}
-</style>
+<style> /* 只影响 Publications 标题，不影响 Markdown 列表 */ .publication .pub-title { font-size: 1em; /* 与列表字体一致 */ font-weight: normal; /* 不加粗 */ cursor: pointer; } /* PDF 链接蓝色 */ .publication .pub-abstract a { color: #007bff; text-decoration: underline; } /* 鼠标悬停标题变蓝 */ .publication .pub-title:hover { color: #007bff; } </style>
 
 
 ## Research Areas
