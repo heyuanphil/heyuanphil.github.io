@@ -7,17 +7,17 @@ hide_title: true
 
 ## Research Areas
 
-**Epistemology**: Epistemic permissivism and its applications；Credence-frequency link
+*Epistemology*: Epistemic permissivism and its applications；Credence-frequency link
 
-**Epistemology of Metaphysics**: Theoretical virtues in metaphysics；Formal epistemology of metaphysics；Metaphysical disagreement
+*Epistemology of Metaphysics*: Theoretical virtues in metaphysics；Formal epistemology of metaphysics；Metaphysical disagreement
 
-**Metaphysics**: Laws of nature；Chance-frequency link
+*Metaphysics*: Laws of nature；Chance-frequency link
 
 ---
 
 ## Publications
 
-- [**Epistemic Permissivism and Risk Assessment in Irrationality**, *Mind* (forthcoming)](/assets/papers/epistemic-permissivism.pdf)
+- [*Epistemic Permissivism and Risk Assessment in Irrationality*, *Mind* (forthcoming)](/assets/papers/epistemic-permissivism.pdf)
 
 
 ## In Progress
