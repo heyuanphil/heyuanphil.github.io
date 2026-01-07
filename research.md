@@ -5,25 +5,26 @@ permalink: /research/
 hide_title: true
 ---
 
+
 <style>
-/* 取消 publication 标题加粗 */
+/* 只影响 Publications 标题，不影响 Markdown 列表 */
 .publication .pub-title {
-  font-weight: normal;   /* 不加粗 */
-  cursor: pointer;       /* 鼠标悬停显示手型 */
+  font-size: 1em;      /* 与列表字体一致 */
+  font-weight: normal;  /* 不加粗 */
+  cursor: pointer;
 }
 
-/* PDF 链接字体蓝色，并带下划线 */
+/* PDF 链接蓝色 */
 .publication .pub-abstract a {
-  color: #007bff;        /* 蓝色 */
+  color: #007bff;
   text-decoration: underline;
 }
 
-/* 可选：鼠标悬停标题时变色 */
+/* 鼠标悬停标题变蓝 */
 .publication .pub-title:hover {
   color: #007bff;
 }
 </style>
-
 
 
 ## Research Areas
