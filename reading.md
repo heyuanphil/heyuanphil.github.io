@@ -23,7 +23,7 @@ I organize and co-organize reading groups on new questions and recent work in ph
 
 
 
-### Participator
+### Participant
 
 - ***Readings in Formal Epistemology***, Fall 2021 (Xiamen University)  
 - ***Unsettled Thoughts: A Theory of Degrees of Rationality***, Fall 2020 (Wuhan University)
