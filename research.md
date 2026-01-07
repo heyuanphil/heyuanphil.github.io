@@ -11,6 +11,19 @@ hide_title: true
   font-size: 1em;      /* 与列表字体一致 */
   font-weight: normal;  /* 不加粗 */
   cursor: pointer;
+  position: relative;    /* 为伪元素定位 */
+  padding-left: 1.2em;   /* 给圆点留空间 */
+}
+
+/* 添加标题前的小圆点 */
+.publication .pub-title::before {
+  content: "•";          /* Unicode 小圆点 */
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: inherit;        /* 继承字体颜色 */
+  font-size: 1em;        /* 圆点大小和文字一致 */
+  line-height: 1em;
 }
 
 /* PDF 链接蓝色 */
@@ -24,6 +37,7 @@ hide_title: true
   color: #007bff;
 }
 </style>
+
 
 ## Research Areas
 
