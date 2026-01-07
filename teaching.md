@@ -41,9 +41,9 @@ a.course-link:hover {
 
 | Course | Semester | Role | Responsibilities | Institution |
 |--------|---------|------|----------------|------------|
-| [An Introduction to Philosophy 🔗](assets/teaching/HeYuan-CLassObs.pdf){: .course-link target="_blank"} | Fall 2025; Spring 2026 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
+| [An Introduction to Philosophy 🔗](assets/teaching/HeYuan-CLassObs.pdf){: .course-link target="_blank"} | Spring 2026; Fall 2025 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
 | [Death and the Meaning of Life 🔗](assets/teaching/S25-PHIL180.pdf){: .course-link target="_blank"} | Spring 2025 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
-| Medical Ethics | Fall 2024 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
+| [Medical Ethics 🔗](assets/teaching/HeYuan_Phil164.pdf){: .course-link target="_blank"} | Fall 2024 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
 | Existentialism | Spring 2024 | Grader | Grading papers. | UMass Amherst |
 | An Introduction to Logic | Fall 2023 | Grader | Grading exams. | UMass Amherst |
 
