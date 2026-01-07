@@ -7,14 +7,15 @@ hide_title: true
 
 <style>
 /* 标题圆点样式 */
-.publication-title {
+  .publication-title {
   font-size: 1em;      
   font-weight: normal;  
   cursor: pointer;
-  list-style-type: disc; /* 标准圆点 */
+  list-style-type: disc; 
   list-style-position: outside;
-  margin-left: 0; /* 保持 ul 默认缩进 */
+  margin-left: 1.5em; /* 给黑点留空间，这里可以微调 */
 }
+
 
 /* 摘要左边距比标题大 */
 .pub-abstract {
