@@ -5,13 +5,13 @@ permalink: /teaching/
 hide_title: true
 ---
 
-
 <style>
+/* 所有表格字体统一为 0.85em，左边缩进 2em */
 table {
-  margin-left: 2em;
+  margin-left: 2.1em;
+  font-size: 0.85em;
 }
 </style>
-
 
 ## Teaching Talk
 
@@ -35,5 +35,6 @@ table {
 |--------|---------|------------|
 | Existentialism | Spring 2024 | UMass Amherst |
 | An Introduction to Logic | Fall 2023 | UMass Amherst |
+
 
 
