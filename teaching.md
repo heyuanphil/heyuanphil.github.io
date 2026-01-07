@@ -22,7 +22,8 @@ table {
 - [*John Robison Prize for Excellence in Undergraduate Teaching*, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
 
 ## Teaching Experience: Discussion Sections
-*Responsibilities included leading discussion sections, grading and holding office hours.*
+- Responsibilities included leading discussion sections, grading and holding office hours。
+
 | Course | Semester | Institution |
 |--------|---------|------------|
 | [An Introduction to Philosophy](assets/teaching/HeYuan-CLassObs.pdf) | Fall 2025; Spring 2026 | UMass Amherst |
