@@ -11,7 +11,7 @@ If you are interested in participating or learning more, feel free to email me a
 
 ### Organizer
 
-- [**Inquiry**](assets/reading%20group/Inquiry.jpg), Winter Break 2025 (Ongoing)
+- [**Inquiry**](assets/readinggroup/Inquiry.jpg), Winter Break 2025 (Ongoing)
 - **Laws of Nature**, Summer Break 2025 (Online)  
 - **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
 - **Grounding and Naturalness**, Summer Break 2024 (Online)  
