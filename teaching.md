@@ -17,9 +17,16 @@ table {
 
 - [*John Robison Prize for Excellence in Undergraduate Teaching*, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
 
+---
+
+
 ## Teaching Talk
 
 - *Undergraduate Teaching Workshop* (invited speaker), Sep 2025, UMass Amherst
+
+
+---
+
 
 ## Teaching Experience
 
