@@ -39,9 +39,9 @@ hide_title: true
 ## Publications
 
 <div class="publication">
-  <h3 class="pub-title" onclick="toggleAbstract('paper1')">
+  <p class="pub-title" onclick="toggleAbstract('paper1')">
     Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (forthcoming)
-  </h3>
+  <p>
   <div id="paper1" class="pub-abstract" style="display:none; margin-left: 1em;">
     <p>
       A popular version of epistemic Permissivism says that, given the total evidence, sometimes there is a
