@@ -9,7 +9,7 @@ title: ""
   <div style="flex:1; min-width:250px; margin-right:30px;">
     <h1>He Yuan</h1>
     <p style="font-size:1.2em; line-height:1.5;">
-      I have been a PhD student in philosophy at UMass Amherst since 2023, working on epistemology, epistemology of metaphysics, and metaphysics.<br>
+      I’ve been a PhD student in philosophy at UMass Amherst since 2023, focusing on epistemology, the epistemology of metaphysics, and metaphysics. Before starting my PhD, I earned an MA in Philosophy of Science from Wuhan University, where I wrote my thesis on Epistemic Permissivism, and a BSc in Geo-Information Science and Technology from Ocean University of China, where I studied the seasonal and year-to-year changes of Arctic sea ice.<br>
     </p>
   </div>
 
