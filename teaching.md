@@ -11,7 +11,7 @@ hide_title: true
 
 ## Teaching Awards
 
-- **John Robison Prize for Excellence in Undergraduate Teaching**, Philosophy Department, UMass Amherst, 2025
+- [**John Robison Prize for Excellence in Undergraduate Teaching**, Philosophy Department, UMass Amherst, 2025](https://www.umass.edu/philosophy/news/john-robison-prize-excellence-teaching)
 
 ## Teaching Assistantship
 
