@@ -5,6 +5,27 @@ permalink: /research/
 hide_title: true
 ---
 
+<style>
+/* 取消 publication 标题加粗 */
+.publication .pub-title {
+  font-weight: normal;   /* 不加粗 */
+  cursor: pointer;       /* 鼠标悬停显示手型 */
+}
+
+/* PDF 链接字体蓝色，并带下划线 */
+.publication .pub-abstract a {
+  color: #007bff;        /* 蓝色 */
+  text-decoration: underline;
+}
+
+/* 可选：鼠标悬停标题时变色 */
+.publication .pub-title:hover {
+  color: #007bff;
+}
+</style>
+
+
+
 ## Research Areas
 
 *Epistemology*: Epistemic permissivism and its applications；Credence-frequency link
@@ -18,7 +39,7 @@ hide_title: true
 ## Publications
 
 <div class="publication">
-  <h3 class="pub-title" onclick="toggleAbstract('paper1')" style="cursor:pointer;">
+  <h3 class="pub-title" onclick="toggleAbstract('paper1')">
     Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (forthcoming)
   </h3>
   <div id="paper1" class="pub-abstract" style="display:none; margin-left: 1em;">
@@ -35,12 +56,14 @@ hide_title: true
       do not render it irrational when one risks being less truth-conducive in exchange for informativeness.
     </p>
     <p>
-      <a href="/assets/papers/epistemic-permissivism.pdf" style="color: #007bff; text-decoration: underline;">
+      <a href="/assets/papers/epistemic-permissivism.pdf">
         Download PDF
       </a>
     </p>
   </div>
 </div>
+
+
 
 
 ---
