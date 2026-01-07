@@ -19,32 +19,20 @@ table {
 
 ---
 
-
 ## Teaching Talk
 
 - *Undergraduate Teaching Workshop* (invited speaker), Sep 2025, UMass Amherst
 
-
 ---
-
 
 ## Teaching Experience
 
-### Discussion Sections
-
-*Responsibilities included leading discussion sections, holding office hours, and grading.*
-
-| Course | Semester | Institution |
-|--------|---------|------------|
-| [An Introduction to Philosophy](assets/teaching/HeYuan-CLassObs.pdf) | Fall 2025; Spring 2026 | UMass Amherst |
-| [Death and the Meaning of Life](assets/teaching/S25-PHIL180.pdf) | Spring 2025 | UMass Amherst |
-| Medical Ethics | Fall 2024 | UMass Amherst |
-
-### Grading Experience
-
-| Course | Semester | Institution |
-|--------|---------|------------|
-| Existentialism | Spring 2024 | UMass Amherst |
-| An Introduction to Logic | Fall 2023 | UMass Amherst |
+| Course | Semester | Role | Responsibilities | Institution |
+|--------|---------|------|----------------|------------|
+| [An Introduction to Philosophy](assets/teaching/HeYuan-CLassObs.pdf) | Fall 2025; Spring 2026 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
+| [Death and the Meaning of Life](assets/teaching/S25-PHIL180.pdf) | Spring 2025 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
+| Medical Ethics | Fall 2024 | Teaching Assistant | Led discussion sections, held office hours, graded assignments. | UMass Amherst |
+| Existentialism | Spring 2024 | Grader | Grading papers. | UMass Amherst |
+| An Introduction to Logic | Fall 2023 | Grader | Grading exams. | UMass Amherst |
 
 
