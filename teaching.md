@@ -25,7 +25,7 @@ table {
 
 | Course | Semester | Institution |
 |--------|---------|------------|
-| An Introduction to Philosophy | Fall 2025; Spring 2026 | UMass Amherst |
+| [An Introduction to Philosophy](assets/teaching/HeYuan.ClassObs.pdf) | Fall 2025; Spring 2026 | UMass Amherst |
 | [Death and the Meaning of Life](assets/teaching/S25-PHIL180.pdf) | Spring 2025 | UMass Amherst |
 | Medical Ethics | Fall 2024 | UMass Amherst |
 
