@@ -7,7 +7,7 @@ hide_title: true
 
 <style>
 /* 标题圆点样式 */
-  .publication-title {
+.publication-title {
   font-size: 1em;      
   font-weight: normal;  
   cursor: pointer;
@@ -15,7 +15,6 @@ hide_title: true
   list-style-position: outside;
   margin-left: 0.5em; /* 给黑点留空间，这里可以微调 */
 }
-
 
 /* 摘要左边距比标题大 */
 .pub-abstract {
@@ -33,7 +32,6 @@ hide_title: true
   color: #007bff;
 }
 </style>
-
 
 ## Research Areas
 
@@ -64,12 +62,13 @@ hide_title: true
         do not render it irrational when one risks being less truth-conducive in exchange for informativeness.
       </p>
       <p>
-        <a href="/assets/papers/epistemic-permissivism.pdf">Download PDF</a>
+        <a href="/assets/papers/epistemic-permissivism.pdf" target="_blank">
+          Download PDF 🔗
+        </a>
       </p>
     </div>
   </li>
 </ul>
-
 
 ---
 
