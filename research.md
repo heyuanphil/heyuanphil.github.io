@@ -13,7 +13,7 @@ hide_title: true
   cursor: pointer;
   list-style-type: disc; 
   list-style-position: outside;
-  margin-left: 1.5em; /* 给黑点留空间，这里可以微调 */
+  margin-left: 0.5em; /* 给黑点留空间，这里可以微调 */
 }
 
 
