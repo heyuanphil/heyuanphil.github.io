@@ -17,5 +17,6 @@ hide_title: true
 
 ## Publications
 
-- [**Epistemic Permissivism and Risk Assessment in Irrationality**, *Mind* (forthcoming)]("assets/papers/He Yuan_Epistemic Permissivism and Risk Assessment in Irrationality.pdf")
+- [**Epistemic Permissivism and Risk Assessment in Irrationality**, *Mind* (forthcoming)](/assets/papers/epistemic-permissivism.pdf)
+
 
