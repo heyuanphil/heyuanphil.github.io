@@ -5,6 +5,14 @@ permalink: /teaching/
 hide_title: true
 ---
 
+
+<style>
+table {
+  margin-left: 2em;
+}
+</style>
+
+
 ## Teaching Talk
 
 - **Undergraduate Teaching Workshop** (invited speaker), Sep 2025, UMass Amherst
