@@ -32,7 +32,7 @@ title: ""
              style="flex:1; cursor:pointer;">
     </div>
 
-    <audio id="heAudio" src="/assets/audio/He.m4a" preload="none"></audio>
+    <audio id="heAudio" src="assets/audio/He.m4a" preload="none"></audio>
 
     <script>
       const audio = document.getElementById('heAudio');
@@ -79,10 +79,11 @@ title: ""
   </div>
 
   <!-- 右边图片 -->
-  <div style="flex:0 0:260px; text-align:center;">
-    <img src="/assets/images/profile.jpg"
+  <div style="flex:0 0 auto; width:260px; text-align:center;">
+    <img src="assets/images/profile.jpg"
          alt="He Yuan"
          style="width:230px; border-radius:50%; border:2px solid #ccc;">
   </div>
 
 </div>
+
