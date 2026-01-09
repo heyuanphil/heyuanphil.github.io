@@ -75,7 +75,7 @@ hide_title: true
 ## In Progress
 
 - A paper arguing that one's rational credence can morally wrong others in cases of epistemic permissivism  
-- A paper arguing that theoretical virtues can be truth-conducive in science but may fail to do so in metaphysics  
+- A paper arguing that theoretical virtues can be truth-conducive in science but fail to do so in metaphysics  
 - A paper defending that we should not be highly confident that our world is a simulation  
 
 <script>
