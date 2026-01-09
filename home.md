@@ -80,7 +80,7 @@ title: ""
 
   <!-- 右边图片 -->
   <div style="flex:0 0:260px; text-align:center;">
-    <img src="/assets/images/profile.jpg"
+    <img src="assets/images/profile.jpg"
          alt="He Yuan"
          style="width:230px; border-radius:50%; border:2px solid #ccc;">
   </div>
