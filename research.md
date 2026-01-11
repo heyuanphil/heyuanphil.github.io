@@ -35,9 +35,9 @@ hide_title: true
 
 ## Research Areas
 
-- *Epistemology*: Epistemic permissivism and its applications；Credence-frequency link  
-- *Epistemology of Metaphysics*: Theoretical virtues in metaphysics；Peer disagreement in Metaphysics  
-- *Metaphysics*: Laws of nature；Chance-frequency link  
+- *Epistemology*: Epistemic permissivism and its applications; Credence-frequency link  
+- *Epistemology of Metaphysics*: Theoretical virtues in metaphysics; Peer disagreement in Metaphysics  
+- *Metaphysics*: Laws of nature; Chance-frequency link  
 
 ---
 
