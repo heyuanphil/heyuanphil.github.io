@@ -64,7 +64,7 @@ title: ""
 
   <!-- 右边图片（关键在这里） -->
   <div style="flex:0 0 auto; width:260px; text-align:center;">
-    <img src="/assets/images/profile.jpg"
+    <img src="/assets/images/profile-1.jpeg"
          alt="He Yuan"
          style="width:230px; border-radius:50%; border:2px solid #ccc;">
   </div>
