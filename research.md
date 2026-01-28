@@ -76,7 +76,7 @@ hide_title: true
 
 - A paper arguing that one's rational credence can morally wrong others in cases of epistemic permissivism  
 - A paper arguing that theoretical virtues can be truth-conducive in science but fail to do so in metaphysics  
-- A paper defending that we should not be highly confident that our world is a simulation  
+- A paper defending that we should not be highly confident that our world is a computer simulation  
 
 <script>
   // 中文注释的 toggleAbstract 函数
