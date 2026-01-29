@@ -3,35 +3,76 @@
 
 @import utils, basic, layout, classes, rouge_github
 
+/* ----------------------------
+   BODY 背景
+---------------------------- */
 body
   background: light(93)
   background: light(93, 16)
-  padding: 0 calc(38% - 22rem)
+  padding: 0  /* 去掉原 body 左右 padding，让 header 全屏 */
 
-body > *
+/* ----------------------------
+   顶部 HEADER 全屏黑色条
+---------------------------- */
+body > header
+  width: 100%
+  margin: 0
+  padding: 0
+  background: #000
+  color: #fff
+
+/* 内部内容容器（导航栏矩形宽度与页面内容一致） */
+body > header .header-inner
+  max-width: 960px
+  margin: 0 auto
+  padding: 1rem 2rem
+  display: flex
+  flex-direction: column
+  gap: 0.5rem
+
+/* 导航条每一行微调 */
+body > header .header-inner nav.smooth div
+  padding: 0.25rem 0
+
+/* ----------------------------
+   页面主体矩形内容
+---------------------------- */
+.page-content
   background: light(100)
   background: light(100, 17)
   color: light(0, 100)
-  padding: 1.75em calc(22% - 6rem)
-  padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, 22% - 6rem)
-  box-shadow: 0 -1px gray(10) inset, 0 0 1em light-dark(gray(10), transparent), 0 0 0 1px light-dark(transparent, light(26))
+  padding: clamp(1.5em, 4vw, 1.75em) 2rem
+  box-shadow: 0 -1px gray(10) inset,
+              0 0 1em light-dark(gray(10), transparent),
+              0 0 0 1px light-dark(transparent, light(26))
+  max-width: 960px
+  margin: 2rem auto
+  border-radius: 4px
 
-body > header, body > footer
+/* ----------------------------
+   FOOTER 背景
+---------------------------- */
+body > footer
+  width: 100%
+  max-width: 100%
+  margin: 0
+  padding: 1rem 0
   background: light(20)
   background: light(20, 17)
   color: light(100)
 
+/* ----------------------------
+   show_frame 背景图保持兼容
+---------------------------- */
 {% if site.show_frame contains "." %}
-
 @media (min-width: 60em)
   body
     background: 0 0/cover url({{ site.show_frame | relative_url }})
     background-attachment: fixed
     color-scheme: only light
-    padding: 1em calc(38% - 22rem)
     > :first-child
       border-radius: 4px 4px 0 0
     > :last-child
       border-radius: 0 0 4px 4px
-
 {% endif %}
+
