@@ -9,19 +9,19 @@
 body
   background: light(93)
   background: light(93, 16)
-  padding: 0  /* 去掉原 body 左右 padding，让 header 全屏 */
+  padding: 0  /* 去掉 body 原左右 padding，让 header 全屏 */
 
 /* ----------------------------
-   顶部 HEADER 全屏黑色条
+   顶部 HEADER 全屏（保留原灰色）
 ---------------------------- */
 body > header
   width: 100%
   margin: 0
   padding: 0
-  background: #000
-  color: #fff
+  background: light(20, 17)  /* 原主题颜色 */
+  color: light(100)
 
-/* 内部内容容器（导航栏矩形宽度与页面内容一致） */
+/* 内部内容矩形宽度与页面主体一致 */
 body > header .header-inner
   max-width: 960px
   margin: 0 auto
@@ -35,7 +35,7 @@ body > header .header-inner nav.smooth div
   padding: 0.25rem 0
 
 /* ----------------------------
-   页面主体矩形内容
+   页面主体矩形框，保留阴影和圆角
 ---------------------------- */
 .page-content
   background: light(100)
@@ -57,7 +57,6 @@ body > footer
   max-width: 100%
   margin: 0
   padding: 1rem 0
-  background: light(20)
   background: light(20, 17)
   color: light(100)
 
