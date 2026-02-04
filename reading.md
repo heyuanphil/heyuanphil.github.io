@@ -11,7 +11,7 @@ I organize and co-organize reading groups on new questions and recent work in ph
 
 ### Organizer
 
-- [**<u>Inquiry</u>**](assets/reading/Inquiry.jpg), Winter Break 2025 (Ongoing)
+- **Inquiry**, Winter Break 2025 (Online)
 - **Laws of Nature**, Summer Break 2025 (Online)  
 - **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
 - **Grounding and Naturalness**, Summer Break 2024 (Online)  
@@ -19,7 +19,7 @@ I organize and co-organize reading groups on new questions and recent work in ph
 
 ### Co-organizer
 
-- **Bayesian Epistemology**: Fall 2024; Spring 2025; Fall 2025; Spring 2026 (UMass Amherst, Ongoing)
+- **Formal Epistemology**: Fall 2024; Spring 2025; Fall 2025; Spring 2026 (UMass Amherst, Ongoing)
 
 
 
