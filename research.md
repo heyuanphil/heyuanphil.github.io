@@ -18,7 +18,7 @@ hide_title: true
 
 /* 摘要左边距比标题大 */
 .pub-abstract {
-  margin-left: 2em; /* 可以调整这个值，让摘要更靠右 */
+  margin-left: 0.5em; /* 可以调整这个值，让摘要更靠右 */
 }
 
 /* PDF 链接蓝色 */
