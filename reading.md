@@ -19,8 +19,8 @@ I organize and co-organize reading groups on new questions and recent work in ph
 
 ### Co-organizer
 
-- **Formal Epistemology**: Fall 2024; Spring 2025; Fall 2025; Spring 2026 (UMass Amherst, Ongoing)
-
+- **Bayesian Epistemology**: Fall 2024; Spring 2025; Fall 2025; Spring 2026
+- **Formal theory of knowledge**: Spring 2026 (Umass Amherst, Ongoing)
 
 
 ### Participant
