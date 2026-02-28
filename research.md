@@ -46,7 +46,7 @@ hide_title: true
 <ul>
   <li>
     <span class="publication-title" onclick="toggleAbstract('paper1')">
-      Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (forthcoming)
+      Epistemic Permissivism and Risk Assessment in Irrationality, <em>Mind</em> (2026)
     </span>
     <div id="paper1" class="pub-abstract" style="display:none;">
       <p>
