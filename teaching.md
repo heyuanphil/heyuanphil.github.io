@@ -13,11 +13,13 @@ table {
 }
 
 
-/* 第2列和第4列居中 */
+/* 第2、3、5列居中 */
 table th:nth-child(2),
 table td:nth-child(2),
-table th:nth-child(4),
-table td:nth-child(4) {
+table th:nth-child(3),
+table td:nth-child(3),
+table th:nth-child(5),
+table td:nth-child(5) {
   text-align: center;
 }
 
