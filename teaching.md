@@ -27,12 +27,12 @@ table td:nth-child(5) {
 
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 17%;
+  width: 16%;
 }
 
 table th:nth-child(2),
 table td:nth-child(2) {
-  width: 12%;
+  width: 13%;
 }
 
 table th:nth-child(3),
