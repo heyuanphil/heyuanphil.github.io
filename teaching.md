@@ -27,27 +27,27 @@ table td:nth-child(5) {
 
 table th:nth-child(1),
 table td:nth-child(1) {
-  width: 19%;
+  width: 17%;
 }
 
 table th:nth-child(2),
 table td:nth-child(2) {
-  width: 13%;
+  width: 12%;
 }
 
 table th:nth-child(3),
 table td:nth-child(3) {
-  width: 13%;
+  width: 12%;
 }
 
 table th:nth-child(4),
 table td:nth-child(4) {
-  width: 42%;
+  width: 47%;
 }
 
 table th:nth-child(5),
 table td:nth-child(5) {
-  width: 13%;
+  width: 12%;
 }
   
 
