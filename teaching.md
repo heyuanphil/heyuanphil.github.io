@@ -12,6 +12,34 @@ table {
   font-size: 0.85em;
 }
 
+/* ===== 列宽控制（最小改动版）====== */
+
+table th:nth-child(1),
+table td:nth-child(1) {
+  width: 22%;
+}
+
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 14%;
+}
+
+table th:nth-child(3),
+table td:nth-child(3) {
+  width: 13%;
+}
+
+table th:nth-child(4),
+table td:nth-child(4) {
+  width: 38%;
+}
+
+table th:nth-child(5),
+table td:nth-child(5) {
+  width: 13%;
+}
+  
+
 /* 悬停时课程名变色，增强可点击感 */
 a.course-link {
   color: inherit;
