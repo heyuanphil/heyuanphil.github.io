@@ -91,6 +91,3 @@ hide_title: true
 </script>
 
 
-<p style="margin-top:80px; font-size:0.75em; color:#aaa; text-align:right;">
-  Last Updated {{ site.time | date: "%B %d, %Y" }}
-</p>
