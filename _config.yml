@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "About", sidebaricon: comments}
   - {file: "research.md", title: "Research", sidebaricon: comments}
   - {file: "teaching.md", title: "Teaching", sidebaricon: comments}
-  - {file: "talking.md", title: "Talk", sidebaricon: comments} 
+  - {file: "talking.md", title: "Talks", sidebaricon: comments} 
   - {file: "reading.md", title: "Reading Group", sidebaricon: comments} 
 
 
