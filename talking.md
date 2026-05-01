@@ -9,7 +9,7 @@ Here is a selection of my recent talks.
 
 ### 2026
 
-- "TBA", August 2026, Philosophy of Statistics Early Career Summer Workshop, University of Minnesota
+- "TBA", August 2026, Philosophy of Statistics Early Career Summer Workshop, University of Minnesota, Twin Cities
 
 ### 2025
 
@@ -22,7 +22,7 @@ Here is a selection of my recent talks.
 
 ### 2023
 
-- "Epistemic Permissivism and Risk Evaluation in Irrationality", May 2023, Seminar Talk, Wuhan University  
+- "Epistemic Permissivism and Risk Assessment in Irrationality", May 2023, Seminar Talk, Wuhan University  
 - "The Epistemic Status of Observational Evidence for Ontological Disputes", April 2023, 1st Beijing International Graduate Conference in Analytic Philosophy, Beijing Normal University
 
 
