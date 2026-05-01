@@ -25,6 +25,4 @@ Here is a selection of my recent talks.
 - "Epistemic Permissivism and Risk Evaluation in Irrationality", May 2023, Seminar Talk, Wuhan University  
 - "The Epistemic Status of Observational Evidence for Ontological Disputes", April 2023, 1st Beijing International Graduate Conference in Analytic Philosophy, Beijing Normal University
 
-### 2021
 
-- "Truth and Probability", December 2021, Online Talk, Xiamen University
