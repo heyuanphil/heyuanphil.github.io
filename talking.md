@@ -9,7 +9,8 @@ Here is a selection of my recent talks.
 
 ### 2026
 
-- "TBA", August 2026, Philosophy of Statistics Early Career Summer Workshop, University of Minnesota, Twin Cities
+- "When your rational credence can morally wrong others", June 2026, Queer Aɸ (Queer Analytic Philosophy) Conference, University of California, Santa Cruz  
+- "Lewisian Chance, Frequency and Zero-fit Problem", August 2026, Philosophy of Statistics Early Career Summer Workshop, University of Minnesota, Twin Cities
 
 ### 2025
 
