@@ -9,8 +9,9 @@ Here is a selection of my recent talks.
 
 ### 2026
 
-- "When Your Rational Credence Can Morally Wrong Others", June 2026, Queer Aɸ (Queer Analytic Philosophy) Conference, University of California, Santa Cruz  
 - "Lewisian Chance, Frequency, and the Zero-Fit Problem", August 2026, Philosophy of Statistics Early Career Summer Workshop, University of Minnesota, Twin Cities  
+- "When Your Rational Credence Can Morally Wrong Others", June 2026, Queer Aɸ (Queer Analytic Philosophy) Conference, University of California, Santa Cruz  
+
 
 
 ### 2025
