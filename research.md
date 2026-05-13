@@ -33,6 +33,10 @@ hide_title: true
 }
 </style>
 
+My research focuses on epistemic permissivism, its applications to epistemology of metaphysics, particularly metaphysical disagreement, and its interactions with morality, particularly credence wronging. I also work on the frequency-credence link in formal epistemology and the chance-frequency link in metaphysics.
+
+---
+
 ## Research Areas
 
 - *Epistemology*: Epistemic permissivism and its applications; Credence-frequency link  
