@@ -33,6 +33,16 @@ hide_title: true
   color: #007bff;
 }
 
+/* 图片展开区域间距优化 */
+.pub-abstract {
+  margin-left: 0.5em;
+  margin-bottom: 0; /* 收紧和下面三行的距离 */
+}
+.pub-abstract img {
+  display: block;
+  margin-bottom: 0; /* 去掉图片下方多余空间 */
+}
+
 </style>
 
 
