@@ -27,11 +27,12 @@ hide_title: true
   text-decoration: underline;
 }
 
-/* 鼠标悬停标题变蓝 */
-.publication-title:hover {
-  .research-intro:hover {
+/* 鼠标悬停变蓝（intro + publication） */
+.publication-title:hover,
+.research-intro:hover {
   color: #007bff;
 }
+
 </style>
 
 
