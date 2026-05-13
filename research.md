@@ -39,7 +39,7 @@ My research focuses on epistemic permissivism, its applications to epistemology 
 
 ## Research Areas
 
-- *Epistemology*: Epistemic permissivism and its applications; Credence-frequency link  
+- *Epistemology*: Epistemic permissivism; Credence-frequency link  
 - *Epistemology of Metaphysics*: Theoretical virtues in metaphysics; Peer disagreement in metaphysics  
 - *Metaphysics*: Laws of nature; Chance-frequency link  
 
