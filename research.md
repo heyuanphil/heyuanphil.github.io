@@ -29,13 +29,15 @@ hide_title: true
 
 /* 鼠标悬停标题变蓝 */
 .publication-title:hover {
+  .research-intro:hover {
   color: #007bff;
 }
 </style>
 
 
-
-<p onclick="toggleAbstract('intro')" style="cursor:pointer; margin:0;">
+<p class="research-intro"
+   onclick="toggleAbstract('intro')"
+   style="cursor:pointer; margin:0;">
 My research focuses on epistemic permissivism, its applications to epistemology of metaphysics, particularly metaphysical disagreement, and its interactions with morality, particularly credence wronging. I also work on the frequency-credence link in formal epistemology and the chance-frequency link in metaphysics.
 </p>
 
