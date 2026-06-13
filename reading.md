@@ -10,7 +10,7 @@ I organize and co-organize reading groups on new questions and recent work in ph
 ---
 
 ### Organizer
-- **Non-evidential Reasons for Belief**, Summer Break 2026 (Ongoing)
+- **Pragmatic Reasons for Belief**, Summer Break 2026 (Ongoing)
 - **Inquiry**, Winter Break 2025 (Online)
 - **Laws of Nature**, Summer Break 2025 (Online)  
 - **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
