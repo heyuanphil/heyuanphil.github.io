@@ -10,7 +10,7 @@ I organize and co-organize reading groups on new questions and recent work in ph
 ---
 
 ### Organizer
-- **Higher-order Metaphysics**, Summer Break 2026 (Ongoing)
+- **Non-evidential Reasons for Belief**, Summer Break 2026 (Ongoing)
 - **Inquiry**, Winter Break 2025 (Online)
 - **Laws of Nature**, Summer Break 2025 (Online)  
 - **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
@@ -20,5 +20,3 @@ I organize and co-organize reading groups on new questions and recent work in ph
 ### Co-organizer
 
 - **Bayesian Epistemology**: Fall 2024; Spring 2025; Fall 2025
-- **Formal theory of knowledge**: Spring 2026 (Umass Amherst, Ongoing)
-
