@@ -1,6 +1,5 @@
 ---
 layout: page
-title: When Your Rational Credence Can Morally Wrong Others
 permalink: /credence-wronging/
 ---
 
