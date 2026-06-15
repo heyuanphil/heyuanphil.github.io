@@ -10,12 +10,12 @@ I organize and co-organize reading groups on new questions and recent work in ph
 ---
 
 ### Organizer
-- **Pragmatic Reasons for Belief**, Summer Break 2026 (Ongoing)
-- **Inquiry**, Winter Break 2025 (Online)
-- **Laws of Nature**, Summer Break 2025 (Online)  
-- **Epistemology of Metaphysics**, Winter Break 2024 (Online)  
-- **Grounding and Naturalness**, Summer Break 2024 (Online)  
-- **Naturalized Metaphysics**, Winter Break 2023 (Online)
+- **Practical Reasons for Belief**, Summer Break 2026 (Ongoing)
+- **Inquiry**, Winter Break 2025 
+- **Laws of Nature**, Summer Break 2025 
+- **Epistemology of Metaphysics**, Winter Break 2024 
+- **Grounding and Naturalness**, Summer Break 2024  
+- **Naturalized Metaphysics**, Winter Break 2023 
 
 ### Co-organizer
 
